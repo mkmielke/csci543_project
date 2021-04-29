@@ -1,49 +1,14 @@
 item {
-    id: 1
-    name: 'Accessory'
-}
-
-item {
-    id: 2
-    name: 'Capacitor'
-}
-
-item {
-	id: 3
-	name: 'Connector'
-}
-
-item {
-    id: 4
-    name: 'Contact'
-}
-
-item {
-    id: 5
-    name: 'Inductor'
-}
-
-item {
-	id: 6
+	id: 1
 	name: 'LED'
 }
 
 item {
-    id: 7
-    name: 'Light Pipe'
-}
-
-item {
-    id: 8
+    id: 2
     name: 'Resistor'
 }
 
 item {
-	id: 9
+	id: 3
 	name: 'Tactile Switch'
-}
-
-item {
-	id: 10
-	name: 'Varistor'
 }
